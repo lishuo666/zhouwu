@@ -1,0 +1,23 @@
+{
+  "name": "zhousi",
+  "version": "1.0.0",
+  "description": "hao",
+  "main": "index.js",
+  "scripts": {
+    "test": "ha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ha"
+  },
+  "keywords": [
+    "666"
+  ],
+  "author": "lishuo",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.4.0",
+    "gulp-minify-html": "^1.0.6"
+  }
+}

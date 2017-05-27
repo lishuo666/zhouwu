@@ -1,0 +1,163 @@
+/*那个图片*/
+#pic1{
+	img{
+		width: 100%;
+	}
+}
+/*导航*/
+.navbar-default{
+	text-align: center;
+	height: 56px;
+    line-height: 56px;
+    margin-bottom: -20px;
+}
+@media (min-width:768px)
+{
+	.navbar-header{
+		display: none;
+	}
+}
+#nav .ll{
+	padding-bottom: 3px;
+	border-bottom: 2px red solid;
+}
+/*主体*/
+#main
+{
+	width: 100%;
+	height: auto;
+	background:#ebebeb;
+	padding-bottom: 20px;
+}
+.one p{
+	margin-bottom: 35px;
+}
+.one .huang{
+	background: #e67e22;
+	color: white;
+	padding: 10px;
+}
+.one .xian
+{   
+	margin-top: 30px;
+	margin-bottom: 25px;
+	border-bottom: 1px grey solid;
+}
+.pic1{
+	padding: 30px 0;
+}
+.d1 dt{
+		float: left;
+		padding-right:5px ;
+	}
+.d1 dd{
+		float: left;
+}
+/*分页*/
+#fen
+{
+	text-align: center;
+}
+.s3,.s4{
+	background: #e67e22;
+	color: white;
+	padding: 10px;
+}
+.right .ss{
+	display: block;
+	width: 90px;
+	border-bottom:1px #e67e22 solid;
+	padding-bottom: 5px;
+}
+.right .xian{
+	border-bottom:1px gainsboro solid;
+}
+.right dt{
+	float: left;
+	padding-right: 3px;
+}
+.right dd{
+	color: #e67e22;
+	font-size: 12px;
+	padding-top: 3px;
+}
+.right .s5
+{
+	width: 300px;
+	height: 36px;
+	background: #e67e22;
+	color: white;
+	text-align: center;
+	line-height: 36px;
+}
+.right .yuan{
+	margin-top: 10px;
+}
+.yuan .quan
+{
+	border: 1px gainsboro solid;
+	padding: 3px;
+	display: inline-block;
+	margin:12px 12px 0 0;
+}
+/*底部*/
+#footer
+{
+	background: #202020;
+	width: 100%;
+	height: auto;
+	padding-bottom: 20px;
+}
+#footer .xian{
+	border-bottom:1px gray solid;
+	color: white;
+	font-size: 16px;
+	padding-top: 32px;
+}
+#footer .ss{
+	display: block;
+	width: 90px;
+	border-bottom:1px #e67e22 solid;
+	padding-bottom: 5px;
+}
+#footer .top{
+	color: darkgrey;
+	margin-top: 20px;
+	border-bottom: 1px gainsboro dashed;
+}
+#footer .quan1{
+	color: white;
+	border: 1px gainsboro solid;
+	padding: 3px;
+	display: inline-block;
+	margin:12px 12px 0 0;
+}
+.top1{
+	color: darkgrey;
+	padding-bottom: 10px;
+	border-bottom: 1px gainsboro dashed;
+}
+.top1 span{
+	display: inline-block;
+	margin: 16px 16px 1px 5px;
+}
+.top2{
+	color: darkgrey;
+	padding-bottom: 10px;
+}
+.top2 span{
+	display: inline-block;
+	margin: 16px 16px 1px 5px;
+}
+/*最下面*/
+#foot{
+	width: 100%;
+	height: auto;
+	background: #111111;
+	color: darkgray;
+	text-align: center;
+}
+#foot p{
+	padding: 30px 0;
+}
+
